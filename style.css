@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(14, 202, 202);
+    color: rgb(255, 255, 255);
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 23px;
+   text-align: center;
+}
+.botao{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    margin: 40px;
+    padding: 10px;
+}

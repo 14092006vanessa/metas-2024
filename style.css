@@ -1,27 +1,27 @@
 :root{
     --cor-de-fundo:#1E1E1E;
-    --verde:#6fff57;
-    --branco:#FFFFFF;
-    --botao-ativo:#3A375E;
-    --botao-inativo:#1b07f3;
+    --verde:#ff1bce;
+    --branco: #FFFFFF;
+    --botao-ativo: #3A375E;
+    --botao-inativo: #0a1458;
     --texto-de-fundo:#5e6278;
-
 }
+
 
 body{
-    background-color: rgb(14, 202, 202);
+    background-color: rgb(30, 48, 24);
     color: rgb(255, 255, 255);
-   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-   font-size: 23px;
-   text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    text-align: center;
 }
-.botao{
-    background-color: rgb(255, 255, 255);
-    color: black;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 20px;
-    margin: 40px;
-    padding: 10px;
+.botão{
+    background-color: rgb(24, 163, 168);
+    font-size: 40px;
+    border-radius: 10px;
+    color: rgb(197, 0, 181);
+    margin: 20px;
+    padding: 20px;
 }
 
 .conteudo-principal{
@@ -30,4 +30,11 @@ body{
     width: 20px;
     align-items: center;
     margin: 0 auto;
+}
+.imagem1{
+    width: 15%;
+    height: 15%;
+}
+.meta{
+  display: flex;
 }
